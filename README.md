@@ -3,6 +3,7 @@ Hi, this is a repository for my solutions to Leetcode problems. I will update th
 
 ## Solutions
 - [1. Two Sum](./solutions/1.two-sum.md)
+- [2. Add Two Numbers](./solutions/2.add-two-numbers.md)
 
 ## Contributing
 If you have a better solution to any of the problems, feel free to open a pull request.
